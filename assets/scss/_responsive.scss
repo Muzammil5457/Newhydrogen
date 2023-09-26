@@ -1,0 +1,2887 @@
+@media (max-width:1440px) {
+    .banner-content {
+        padding-top: 35px;
+    }
+
+    .bannerText__percentage h2 {
+        font-size: 128px;
+    }
+
+    .banner {
+        .carousel-item {
+            height: 700px;
+
+            img {
+                height: 100%;
+            }
+        }
+    }
+
+    .bannerText__percentage h6 {
+        font-size: 28px;
+    }
+
+    .banner .carousel-indicators {
+        margin-top: 26px;
+    }
+
+    .lvGas__content {
+        margin-left: 50px;
+    }
+
+    .dSection__content {
+        margin-left: 130px;
+        padding-bottom: 0px;
+    }
+
+    .wdSection__content {
+        margin-left: 130px;
+        padding-bottom: 0px;
+    }
+
+    .usDepart__content p {
+        margin: 26px auto 45px;
+    }
+
+    .usDepart__content {
+        padding: 42px;
+    }
+
+    .usDepart {
+        height: auto;
+    }
+
+    .lvGas {
+        padding: 80px 0;
+    }
+
+    .banner .carousel-indicators [data-bs-target] {
+        height: 2px;
+    }
+
+    .cleanenergy {
+        padding: 153px 23px 143px;
+    }
+
+    .techList {
+        background: #091113;
+    }
+
+    .techList__box {
+        position: static;
+        transform: none;
+    }
+
+    .techWords {
+        padding: 40px 23px 70px;
+    }
+
+    .techWords__img img {
+        max-width: 100%;
+    }
+
+    .geoStat {
+        padding: 35px 31px 33px 31px;
+    }
+
+    .geoStat__circleStat {
+        max-width: 145px;
+    }
+
+    .bannerText h1 {
+        font-size: 52px;
+    }
+}
+
+@media (max-width:1200px) {
+    .navbar .navbar-nav {
+        gap: 18px;
+
+        &.rightNav {
+            margin-left: 18px;
+        }
+    }
+
+    .navbar .navbar-brand {
+        max-width: 144px;
+    }
+
+    .dis-impact h4 {
+        font-size: 75px;
+    }
+
+    .pb-electro h4 {
+        font-size: 70px;
+    }
+
+    .marketGraph__card {
+        padding: 42px;
+        min-width: initial;
+    }
+
+    .appBgwhite__wrap__inner {
+        text-align: center;
+        border-radius: 20px;
+        border: 1px solid #cbcbcb;
+        margin: 0 auto;
+        color: #fff;
+        margin-top: 18px;
+        padding: 25px 11px 25px;
+    }
+
+    .marketC.marketC-fixCard .marketC__box {
+        padding: 80px 55px;
+    }
+
+    .marketDrain p {
+        font-size: 30px;
+    }
+
+    .marketC.marketC-disruptive .marketC__content .marketC-img {
+        top: -215px;
+    }
+
+    .ucsb-work.ucsanta .ucsb-work-wrap h4 {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 991px) {
+    .nn-abt::after {
+
+        left: -30%;
+        bottom: 27%;
+    }
+
+    .nn-abt-img {
+
+        margin-bottom: 30px;
+    }
+
+    .dSection.dSection-quote {
+        padding-top: 100px;
+        padding-bottom: 100px;
+
+        .dSection__innerDiv {
+            margin-bottom: 20px;
+        }
+    }
+
+    .wt-sect-rev .dis-impact-content {
+        max-width: 100%;
+        margin-top: 40px;
+        display: flex;
+        flex-direction: column;
+
+        .theme-btn {
+            display: block;
+            margin: auto;
+        }
+    }
+
+    .wdSection__img {
+        width: 100%;
+    }
+
+    .wdSection__img img {
+        height: 350px;
+        width: 100%;
+        object-fit: cover;
+    }
+
+    .wdSection.h-graphSection .wdSection__box {
+        margin: auto;
+    }
+
+    .wdSection__innerDiv {
+        margin-bottom: 30px;
+    }
+
+    .ceoMsg {
+        margin-top: 0;
+        margin-bottom: 56px;
+    }
+
+    .pb-electro h4 {
+        font-size: 52px;
+    }
+
+    .lvGas {
+        padding: 18px 0 34px;
+    }
+
+    .enRevolution p {
+        margin-left: 0;
+        margin-top: 31px;
+    }
+
+    .news .row .col-lg-6:last-of-type .newsItem {
+        margin-left: 0;
+    }
+
+    .newsItem {
+        max-width: 100%;
+    }
+
+    .technology .lvGas__content {
+        margin-bottom: 61px;
+    }
+
+    .dSection__box {
+        margin-top: 0;
+        margin-right: 0;
+        margin-left: 47px;
+        margin-bottom: 33px;
+    }
+
+    .dSection__content {
+        margin-left: 0;
+        margin-top: 33px;
+    }
+
+    .wdSection__content {
+        margin-left: 0;
+        margin-top: 33px;
+    }
+
+    .usDepart__img {
+        display: none !important;
+    }
+
+    .usDepart {
+        margin: 140px 0 0;
+    }
+
+    .footer-nav {
+        gap: 15px;
+    }
+
+    .navbar-collapse {
+        // background: linear-gradient(180deg, rgba(46, 79, 54, 0.6) 0%, rgba(46, 79, 54, 0.468) 100%);
+        // backdrop-filter: blur(30px);
+        /* Note: backdrop-filter has minimal browser support */
+        background: #ffffff;
+        position: absolute;
+        top: 79px;
+        width: 100%;
+        // border-radius: 9px;
+        left: 0;
+    }
+
+    .nh-potential h2 {
+        font-size: 40px;
+    }
+
+    .navbar .navbar-nav {
+        gap: 16px;
+        padding: 38px;
+    }
+
+    .bannerText__percentage h2 {
+        font-size: 112px;
+    }
+
+    .banner {
+        .container {
+            position: relative;
+        }
+    }
+
+    .banner-watchbtn {
+        max-width: 440px;
+    }
+
+    .bannerText h1 {
+        font-size: 36px;
+    }
+
+    .lvGas__content {
+        margin-left: 0;
+        margin-top: 40px;
+    }
+
+    .dSection-opposite .dSection__content {
+        margin-top: 0;
+        margin-bottom: 58px;
+    }
+
+    .navbar .navbar-nav .nav-link:hover,
+    .navbar .navbar-nav .nav-link:focus,
+    .navbar .navbar-nav .nav-link.active {
+        color: #0be02e;
+    }
+
+    .nav_darkk .navbar {
+        background: #000;
+    }
+
+    .nav_darkk .navbar .navbar-collapse {
+        background: #000;
+    }
+
+    .nav_darkk .navbar-toggler {
+
+        svg {
+            path {
+                stroke: #fff;
+            }
+        }
+    }
+
+    .marketC__content {
+        max-width: 600px;
+        margin: -100px auto 0;
+    }
+
+    .markatCPic {
+        padding-left: 0;
+        display: block;
+        margin: 52px auto 0;
+    }
+
+    .theme-heading {
+        flex-direction: column;
+
+        p {
+            margin-left: 0;
+        }
+    }
+
+    .dSection.marketdSection .dSection__content {
+        margin-left: 0;
+        max-width: 100%;
+    }
+
+    .pSection__content {
+        max-width: 100%;
+    }
+
+    .platform {
+        height: auto;
+    }
+
+    .platforms {
+        margin: 0;
+        padding: 52px 0 55px;
+
+        .row {
+            &>div {
+                &+div {
+                    .platform {
+                        margin-top: 57px;
+                    }
+                }
+            }
+        }
+    }
+
+    .platforms__heading {
+        padding-bottom: 57px;
+    }
+
+    .techList,
+    .techWords {
+        margin: 0;
+    }
+
+    .techBg {
+        display: none;
+    }
+
+    .techList__wrap {
+        padding: 0;
+        max-width: 100%;
+    }
+
+    .techWords p {
+        max-width: 100%;
+    }
+
+    .geothermalSys .pSection__content {
+        margin-top: 0;
+    }
+
+    .pSection__img {
+        margin-top: 58px;
+    }
+
+    .geothermalStat {
+        .row {
+            &>div {
+                &+div {
+                    .geoStat {
+                        margin-top: 14px;
+                    }
+                }
+            }
+        }
+    }
+
+    .podcastt {
+        .ceoMsg__msg {
+            margin-bottom: 41px;
+        }
+    }
+
+    .podcast-item {
+        margin: auto;
+    }
+
+    .podcast .row>div:nth-child(even) .podcast-item {
+        margin-right: auto;
+    }
+
+    .podcast .row>div:not(:first-child) .podcast-item {
+        margin-top: 90px;
+    }
+
+    .uce-text h3 {
+        font-weight: 200;
+        font-size: 132px;
+    }
+
+    .dt-content-box {
+        max-width: calc(100% - 46px);
+        margin: -75px auto 0;
+    }
+
+    .dt-comprsion-bar {
+        max-width: 100%;
+        margin-left: 0;
+    }
+
+    .dt-comprsion-bars {
+        &>p {
+            margin-bottom: 42px;
+        }
+    }
+
+    .dt-dsection {
+        .dSection__content {
+            max-width: 100%;
+        }
+
+        .dSection__img {
+            position: static;
+        }
+    }
+
+    .dt-dsection .dSection__box {
+        position: absolute;
+        margin: 0;
+        right: 0;
+        top: -110px;
+    }
+
+    .aboutMarket .marketC__content {
+        padding: 100px;
+        margin-top: -310px;
+        background: #1C1D1D;
+    }
+
+    .aboutBanner.pageBanner h1 {
+        font-size: 30px;
+    }
+
+    .aboutMarket {
+        background: #091113;
+        padding-bottom: 54px;
+    }
+
+    .navbar {
+        background: #ffffff;
+    }
+
+    .homeC .navbar {
+        background: transparent;
+    }
+
+
+    .alkalineElectorlyzersWt__content2 .f_div .electroSection__box {
+        margin-right: 0;
+        margin-left: 10px;
+        padding: 19px 27px 29px 60px;
+
+    }
+
+    .alkalineElectorlyzersWt__content2 .s_div .electroSection__box {
+        margin-right: 10px;
+        padding: 19px 27px 29px 60px;
+    }
+
+    .electroMarket .electroC__content {
+        margin-left: 0px;
+        margin-top: -80px;
+    }
+
+    .elctroBanner h1 {
+        font-size: 35px;
+    }
+
+    .h-scalable-box {
+        padding: 30px 90px 35px;
+
+        p {
+            font-size: 20px;
+        }
+    }
+
+    .alkalineElectorlyzersWt__content h4 {
+        font-size: 30px;
+        margin-bottom: 30px;
+
+    }
+
+    .electroBgdark .first_row,
+    .electroBgdark .second_row,
+    .electroBgdark .third_row,
+    .electroBgdark .fourth_row {
+        margin: auto;
+    }
+
+    .appMarket .appC__content {
+        margin-top: -40px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .appMarket {
+        padding-bottom: 20px;
+    }
+
+    .appBanner h1 {
+        font-size: 35px;
+    }
+
+    .aboutBanner .page-titleC {
+        max-width: 704px;
+    }
+
+    .aboutMarket .d-flex-aboutmarket {
+        display: block;
+    }
+
+    .aboutMarket .marketC__content {
+        background: #fff;
+    }
+
+    .aboutMarket {
+        background: #fff;
+    }
+
+    .investMarket .appin__content {
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 30px;
+    }
+
+    .investMarket .appin__content {
+        margin-top: -53px;
+    }
+
+    .investor-wWCT {
+        margin: auto;
+        margin-bottom: 20px;
+        margin-top: 40px;
+    }
+
+    .investMarket .image_div {
+        text-align: center;
+    }
+
+    .marketC.marketC-fixCard .marketC__box {
+        margin: auto;
+    }
+
+    .disNew-hope .disruptive-video-wrap {
+        margin: auto;
+        margin-bottom: 14px;
+    }
+
+    .disNew-hope .dis-quote-wrap {
+        margin: auto;
+    }
+
+    .marketC.marketC-disruptive .marketC__content {
+        margin-bottom: 40px;
+    }
+
+    .disNew-hope .disNew-hope-content {
+        margin: auto;
+        margin-bottom: 40px;
+    }
+
+    .disNew-hope {
+        padding-bottom: 100px;
+    }
+
+
+
+    .appIn-Industry .appIndustry-item {
+        margin-inline: auto;
+    }
+
+    .app-modal .modal-dialog .modal-body .app-modal-text {
+        padding: 30px 50px 30px;
+    }
+
+    .marketC.marketC-disruptive .marketC__content .marketC-img {
+        width: 500px;
+        top: -190px;
+    }
+
+    .marketC.marketC-disruptive .marketC__content {
+        max-width: 600px;
+    }
+
+    .marketC__content .disNew-hope-content {
+        margin-bottom: 50px;
+    }
+
+    .navbar {
+        padding: 40px 0 10px;
+    }
+
+    .nn-abt .theme-btn {
+        display: block;
+        text-align: center;
+        width: 124px;
+        margin-inline: auto;
+    }
+
+    .theme-full,
+    .ourGoal-sect {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .dSection-quote {
+        .dSection__img {
+            max-width: 500px;
+
+        }
+
+        .dSection__box {
+            margin-left: auto;
+        }
+    }
+
+    .dSection.dSection-quote .dSection__content,
+    .wdSection__content {
+        max-width: 100%;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .dis-impact h4 {
+        font-size: 50px;
+    }
+
+
+    .footer-nav {
+        flex-wrap: wrap;
+        gap: 30px;
+        margin-bottom: 30px;
+
+        a {
+            flex: auto;
+            text-align: left;
+            width: 46%;
+        }
+    }
+
+    footer p {
+        text-align: left;
+    }
+
+    .pb-electro h4 {
+        font-size: 40px;
+    }
+
+    .bannerText {
+        max-width: 295px;
+    }
+
+    .bannerText h1 {
+        font-size: 32px;
+    }
+
+    .bannerText p {
+        font-size: 16px;
+    }
+
+    .bannerText__percentage h2 {
+        font-size: 70px;
+    }
+
+    .bannerText__percentage h6 {
+        font-size: 22px;
+    }
+
+    .banner-watchbtn {
+        max-width: 240px;
+    }
+
+    .banner .carousel-item {
+        height: 650px;
+    }
+
+    .banner-newsletter {
+        display: block;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+
+    .technology .lvGas__content {
+        max-width: 100%;
+    }
+
+    .pageBanner h1 {
+        font-size: 32px;
+    }
+
+    .page-titleC {
+        top: 58px;
+    }
+
+    .marketC__content {
+        max-width: 460px;
+        margin: -80px auto 0;
+    }
+
+    .cleanenergy {
+        padding: 60px 23px;
+    }
+
+    .cleanenergy .clean-globe {
+        margin: 50px auto;
+    }
+
+    .clean-graph-chart {
+        margin-top: 50px;
+    }
+
+    .newsPage-catPage {
+        flex-direction: column;
+        align-items: baseline;
+        gap: 30px;
+    }
+
+    .uce-text h3 {
+        font-size: 88px;
+    }
+
+    .dt-content-box p {
+        padding: 33px 0;
+    }
+
+    .about-item {
+        flex-direction: column;
+        gap: 59px;
+    }
+
+    .about-item-basic {
+        margin: auto;
+    }
+
+    .contact-form-btn {
+        text-align: center;
+    }
+
+    .dSectionMarket__callouts {
+        display: block;
+
+        .dSectionMaket__callout {
+
+            max-width: 192px;
+            margin: auto;
+            margin-bottom: 33px;
+
+        }
+    }
+
+    .marketGraph__portion1::after {
+        content: none;
+    }
+
+    .page-titleC {
+        width: initial;
+    }
+
+    .ucsb-team-wrap .ucsb-team-row {
+        display: block;
+
+        .ucsb-team-content {
+            &:first-of-type {
+
+                border-bottom: 1px solid #cbcbcb;
+                margin-bottom: 50px;
+            }
+        }
+    }
+
+    .ucsb-team-heading .ucsd-heading-wrap {
+        flex-direction: column;
+        align-items: center;
+        gap: 58px;
+    }
+
+    .disNew-hope-content {
+
+        margin-bottom: 50px;
+    }
+
+    .dis-quote-wrap {
+        margin-bottom: 50px;
+    }
+
+    .pb-electro {
+        padding: 100px 0;
+    }
+
+    .pb-disadvange-content {
+        padding: 50px;
+    }
+
+    .dis-quote {
+        padding-bottom: 48px;
+    }
+
+    .ucsb-work.ucsanta .ucsb-work-wrap {
+        padding-bottom: 24px;
+        border-bottom: 1px solid #cbcbcb;
+    }
+
+    .ucsb-work.ucsanta {
+        padding-bottom: 48px;
+    }
+
+    .dis-therma-box {
+        max-width: 254px;
+        min-height: 118px;
+        margin: auto;
+        margin-top: 47px;
+    }
+
+    .pb-main .pb-advantage {
+        height: 200px;
+    }
+
+    .dis-therma-box span {
+        font-size: 15px;
+    }
+
+    .dis-therma-box p {
+        font-size: 32px;
+    }
+
+    .pb-advantage-content {
+        padding: 24px 14px;
+        margin-bottom: -80px;
+    }
+
+    .dis-impact-graph {
+        margin-top: 85px;
+        margin-bottom: 85px;
+    }
+
+    .elctroBanner h1 {
+        font-size: 30px;
+    }
+
+    .h-scalable-box {
+        padding: 25px 70px 30px;
+
+        p {
+            font-size: 18px;
+        }
+    }
+
+    .electroCatalystBgdark .circuit-image {
+        padding: 30px 0px 30px 0px;
+    }
+
+    .electroCatalystBgdark {
+        padding: 93px 0px 93px;
+    }
+
+    .alkalineElectorlyzersWt__content h4 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+
+    .appBanner h1 {
+        font-size: 30px;
+    }
+
+    .appIn-Industry::after {
+        width: 300px;
+        height: 710px;
+        bottom: -12.5%;
+    }
+
+    .appIn-Industry .appIndustry-item {
+        margin-inline: auto;
+        margin-bottom: 25px;
+    }
+
+    .aboutBgDarkSec .about-wrap .about-head .about-head-uni {
+        display: none;
+    }
+
+    .aboutMarket .marketC__content {
+        padding: 50px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .about {
+        padding-top: 0;
+    }
+
+    .about-item-face {
+        width: 145px;
+    }
+
+
+    .aboutBanner.pageBanner h1 {
+        font-size: 24px;
+    }
+
+    .about-item {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .videocat .catlatest-heading {
+        margin-bottom: 0;
+
+        h2 {
+            font-size: 30px;
+        }
+    }
+
+    .videocat {
+        padding-top: 40px;
+
+        .videocat-box {
+            margin-bottom: 28px;
+        }
+    }
+
+    .catlatest {
+        padding-top: 77px;
+
+        .catlatest-heading {
+            padding-bottom: 11px;
+            margin-bottom: 27px;
+
+            h2 {
+                font-size: 16px;
+                font-weight: 400;
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    .catlatest-item h4 {
+        margin-top: 15px;
+        font-size: 12px;
+
+    }
+
+    #short-videos .catlatest-heading h2 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .banner-teams {
+        bottom: 24px;
+    }
+
+    .podcast-bdetail {
+        margin-bottom: 19px;
+    }
+
+    #short-videos {
+        margin-bottom: 54px;
+    }
+
+    .podcast-newsletter {
+        margin-bottom: 47px;
+    }
+
+    .appIn-Industry {
+        padding-bottom: 130px;
+    }
+
+    .appIn-Industry::after,
+    .appIn-Industry::before {
+        display: none;
+    }
+
+    .industry-app-mbl {
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+
+    .marketC__content .mb-content {
+        margin-top: 0;
+    }
+
+    .marketC.marketC-disruptive .marketC__content .marketC-img {
+        width: 440px;
+        top: -175px;
+    }
+
+    .marketC.marketC-disruptive .marketC__content {
+        max-width: 460px;
+    }
+
+    .ucsb-work.ucsanta .ucsb-work-wrap h4 {
+        margin-bottom: 40px;
+    }
+}
+
+@media (max-width: 576px) {
+    .bannerText-c {
+        padding: 22px;
+    }
+
+    .pageBanner h5 {
+        font-size: 18px;
+    }
+
+    .nn-abt::after {
+        left: -31%;
+        width: 346px;
+        height: 300px;
+        top: 17%;
+    }
+
+    .nn-abt::before {
+        top: 0;
+        width: 512px;
+        height: 644px;
+    }
+
+    .nn-abt .theme-btn {
+        max-width: fit-content;
+        display: flex;
+        margin: auto;
+        margin-top: 75px;
+    }
+
+    .nn-abt {
+        overflow: hidden;
+
+        .nn-abt-wrap {
+            &::after {
+                content: "";
+                bottom: -14%;
+                width: 512px;
+                height: 644px;
+                background: url(../img/nn-gradient-2.png) no-repeat;
+                background-size: contain;
+                position: absolute;
+                right: -49%;
+                z-index: -1;
+            }
+        }
+    }
+
+    .wdSection__img {
+        max-width: fit-content;
+        margin-left: -12px;
+    }
+
+    .nn-abt-img {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-bottom: 74px;
+
+
+
+        img {
+
+            max-height: 295px;
+            object-fit: cover;
+            width: 100%;
+            border-radius: 10px;
+        }
+    }
+
+    .nn-abt h2 {
+        font-size: 25px;
+    }
+
+
+    .bannerText__percentage h2 span {
+        display: none;
+    }
+
+    .nn-abt-img {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .pb-electro h4 {
+        font-size: 37px;
+    }
+
+    .dis-impact h4 {
+        font-size: 40px;
+    }
+
+    .bannerText__percentage {
+        position: relative;
+    }
+
+    .bannerText__percentage h6 {
+        font-weight: 700;
+        font-size: 8px;
+        line-height: 120%;
+        color: #51BA6B;
+        position: absolute;
+        top: 50%;
+        background: #091113;
+        padding: 2px;
+        left: 9px;
+    }
+
+    .appBanner h1 {
+        font-size: 20px;
+    }
+
+    .bannerText h1 {
+        font-size: 35px;
+        text-align: center;
+    }
+
+    .bannerText {
+        max-width: 100%;
+        margin-top: -60px;
+        padding-top: 0;
+    }
+
+    .bannerText p {
+        font-size: 18px;
+        margin: 24px 0 0;
+        text-align: center;
+    }
+
+    .mobile-action {
+        text-align: center;
+        margin-top: 16px;
+    }
+
+    .banner-watchbtn {
+        width: 100%;
+        max-width: 540px;
+        margin-top: -80px;
+    }
+
+    .banner .carousel-item {
+        height: 788px;
+
+        img {
+            object-fit: cover;
+        }
+    }
+
+    .banner-teams h5 {
+        font-size: 12px;
+    }
+
+    .banner-teams-image .ucla,
+    .banner-teams-image .ucsb {
+        max-width: 40px;
+    }
+
+    .banner-newsletter {
+        position: absolute;
+        bottom: -30px;
+        left: 50%;
+        transform: translateX(-50%);
+        margin: auto;
+        font-weight: 400;
+        width: 250px;
+
+    }
+
+    .hlVideo {
+        padding: 43px 0 50px;
+    }
+
+    .hlVideo__content h2 {
+        font-size: 18px;
+    }
+
+    .hnewslesster {
+        padding: 32px 0 45px;
+    }
+
+    .marketC.marketC-fixCard .marketC__content h4 {
+        font-size: 15px;
+    }
+
+    .pageBanner__banner {
+        margin-left: -12px;
+        margin-right: -12px;
+
+        img {
+            height: 262px;
+            object-fit: cover;
+        }
+
+        .marketC {
+            padding-left: 12px;
+            padding-left: 12px;
+
+        }
+    }
+
+
+    .ceoMsg__face {
+        display: none;
+    }
+
+    h2,
+    h3,
+    h4 {
+        font-size: 30px;
+    }
+
+    .hnewslesster form {
+        padding: 23px 14px 20px 17px;
+        border-radius: 9px;
+    }
+
+    .lvGas {
+        margin: 0 22px;
+        padding: 18px 23px 34px;
+    }
+
+    .lvGas__content p {
+        margin: 26px 0 30px;
+    }
+
+    .technology {
+        padding: 50px 0;
+    }
+
+    .subtitle {
+        margin-bottom: 22px;
+    }
+
+    .technology .lvGas__content {
+        margin-top: 0;
+    }
+
+    .technology__box h5 {
+        margin-top: 0;
+    }
+
+    .technology .row .row>div:nth-child(n+3) .technology__box,
+    .technology .row .row>div:not(:first-child) .technology__box {
+        margin-top: 50px;
+    }
+
+    .enRevolution {
+        padding: 55px 0;
+    }
+
+    .enRevolution__energies {
+        margin-top: 34px;
+    }
+
+    .superRock {
+        padding: 55px 0 0;
+
+        h2 {
+            font-size: 18px;
+            margin: 0 auto 50px;
+        }
+    }
+
+    .superRock p:first-of-type {
+        margin-top: 35px;
+    }
+
+    .superRock .theme-btn {
+        margin-top: 48px;
+    }
+
+    .dSection__box {
+        padding: 30px;
+    }
+
+    .dSection__img {
+        max-width: calc(100% - 74px);
+    }
+
+    .dSection {
+        padding: 21px 0 60px;
+    }
+
+    .dSection__content p {
+        margin: 40px 0 36px;
+        font-size: 18px;
+    }
+
+    .dSection.dSection-quote {
+        padding-bottom: 44px;
+    }
+
+    .wt-sect-rev .dis-impact {
+        padding-top: 20px;
+    }
+
+    .wt-sect-rev .dis-impact h3 {
+        font-size: 32px;
+    }
+
+    .wt-sect-rev .dis-impact-content {
+        margin-top: 40px;
+    }
+
+    .wt-sect-rev .dis-impact-content p {
+        padding: 25px 30px;
+        font-size: 15px;
+        margin-bottom: 48px;
+    }
+
+    .wdSection__content p {
+        margin: 26px 0 36px;
+    }
+
+    .themebg-section {
+        margin: 0 22px;
+        padding: 34px 20px;
+    }
+
+    .technology__boximg {
+        margin-bottom: 40px;
+    }
+
+    .usDepart {
+        margin: 34px 0 25px;
+    }
+
+    .usDepart__content {
+        padding: 0;
+
+        h2 {
+            font-size: 18px;
+        }
+    }
+
+    .news h2 {
+        margin-bottom: 40px;
+    }
+
+    .newsItem {
+        margin-bottom: 54px;
+    }
+
+    .news {
+        padding: 70px 0;
+    }
+
+    footer {
+        padding: 80px 0;
+    }
+
+    .footer-newsletter h4 {
+        font-size: 18px;
+        margin-bottom: 56px;
+    }
+
+    .footer-newsletter form {
+        padding: 31px 24px;
+    }
+
+    .footer-logo {
+        padding: 60px 0;
+    }
+
+    .footer-nav {
+        gap: 23px;
+        margin-bottom: 42px;
+        padding: 0 30px;
+
+        a {
+            font-size: 15px;
+        }
+    }
+
+    footer p {
+        padding: 0 30px;
+    }
+
+    .pageBanner {
+        margin-top: 15px;
+    }
+
+    .pageBanner h1 {
+        font-size: 20px;
+    }
+
+    .marketC__content {
+        padding: 32px 21px;
+        max-width: calc(100% - 30px);
+
+        p {
+            font-size: 14px;
+        }
+    }
+
+    .pageBanner h5 {
+        margin-bottom: 30px;
+    }
+
+    .page-titleC {
+        top: 32px;
+    }
+
+    .marketC__paragraph {
+        margin-top: 72px;
+    }
+
+    .dSectionMarket {
+        margin: 0;
+        padding: 71px 24px 50px;
+    }
+
+    .pageBanner.disruptive-banner .pageBanner__banner {
+        padding-top: 18px;
+        display: block;
+
+    }
+
+
+    .marketC.marketC-disruptive .marketC__content {
+        padding: 26px 22px;
+
+        .marketC-img {
+            margin-bottom: 25px;
+        }
+
+        p {
+            padding-left: 4px;
+            padding-right: 4px;
+        }
+    }
+
+    .marketGraph {
+        padding-top: 95px;
+
+        h3 {
+            font-size: 32px;
+            max-width: 291px;
+
+            margin-bottom: 30px;
+        }
+    }
+
+    .marketGraph__portion1 {
+        margin-top: 57px;
+    }
+
+    .marketGraph__mt_30 {
+        margin-top: 50px;
+    }
+
+    .marketGraph__card {
+        padding: 67px 47px 60px;
+    }
+
+    .marketGraph__card__Inner h5 {
+        margin-bottom: 17px;
+    }
+
+    .marketGraph__card__Inner h2 {
+        margin-bottom: 30px;
+    }
+
+    .marketGraph__card__Inner h6 {
+        margin-bottom: 42px;
+    }
+
+    .marketGraph__card__Outer p {
+        color: #fff;
+    }
+
+    .dSectionMarket__callouts {
+        margin-top: 65px;
+    }
+
+    .marketGraph__card__Outer h2 {
+        margin-bottom: 30px;
+        font-size: 20px;
+    }
+
+    .marketDrain p {
+        font-size: 25px;
+        font-weight: 400;
+    }
+
+    .marketDrain {
+        padding: 38px 0;
+    }
+
+    .marketDrain .theme-btn {
+        margin: 30px 0;
+    }
+
+    .footer-newsletter h4 {
+        font-size: 32px;
+    }
+
+    .marketC {
+        padding: 44px 12px 68px;
+    }
+
+    .marketC.marketC-fixCard .marketC__box {
+        padding: 43px 48px;
+    }
+
+    .cleanenergy {
+        margin: 0;
+        padding: 42px 23px;
+    }
+
+    .dSection.marketdSection .dSection__box {
+        padding: 35px 0 30px;
+
+        h5 {
+            font-size: 12px;
+            margin: 0 30px 12px;
+        }
+    }
+
+
+
+    p {
+        font-size: 14px;
+    }
+
+    .dSection.marketdSection .dSection__content h3 {
+        max-width: 100%;
+    }
+
+    .techQuote__wrap {
+        padding: 22px 43px;
+
+        h6 {
+            font-size: 15px;
+            margin-bottom: 12px;
+        }
+
+        p {
+            font-size: 13px;
+        }
+    }
+
+    .pSection {
+        padding: 55px 0 58px;
+    }
+
+    .pSection__img {
+        margin-top: 30px;
+    }
+
+    .platforms__heading h3 {
+        font-size: 30px;
+    }
+
+    .platforms__heading p {
+        font-weight: 400;
+        font-size: 16px;
+    }
+
+    .platform__faster {
+        flex-direction: column;
+        gap: 24px;
+        align-items: baseline;
+    }
+
+    .platform__fasterText {
+        max-width: 100%;
+    }
+
+    .techList__wrap p {
+        text-align: center;
+        font-size: 15px;
+    }
+
+    .energyList li {
+        font-size: 13px;
+    }
+
+    .techWords p {
+        font-size: 15px;
+    }
+
+    .geoStat__title h4,
+    .geoStat__point h5 {
+        font-size: 23px;
+    }
+
+    .geoStat {
+        padding: 20px 27px;
+    }
+
+    .geoStat__title p,
+    .geoStat__point span {
+        font-size: 11px;
+    }
+
+    .geoStat__points {
+        margin-top: 37px;
+    }
+
+    .geoStat__points .geoStat__point+.geoStat__point {
+        margin-top: 0px;
+    }
+
+    .geoStat__circleStat {
+        max-width: 110px;
+        top: 21px;
+        right: 19px;
+    }
+
+    .geoStat__wells {
+        padding-right: 10px;
+    }
+
+    .geoStat__leases {
+        padding-left: 10px;
+    }
+
+    .geoStat__map {
+        max-width: 66px;
+    }
+
+    .geoStat__point {
+        max-width: 89px;
+    }
+
+    .geothermalStat {
+        padding-bottom: 55px;
+    }
+
+    .newsPage {
+        padding: 20px 0 65px;
+    }
+
+    .newsPage-title {
+        font-size: 40px;
+    }
+
+    .newsPage-category {
+        margin: 45px 0 57px;
+
+        h2 {
+            font-size: 16px;
+        }
+    }
+
+    .newsArchiveBtn {
+        margin-top: 53px;
+        text-align: center;
+    }
+
+    .news-detail {
+        padding: 38px 0 58px;
+    }
+
+
+    .news-detail h1 {
+        margin-bottom: 43px;
+        font-size: 30px;
+    }
+
+    .news-detail-info {
+        .newsItem {
+            margin-bottom: 0;
+        }
+    }
+
+    .news-moreinfo {
+        padding-bottom: 0;
+    }
+
+    .news-about {
+        margin-top: 41px;
+    }
+
+    .news-about h4 {
+        font-size: 16px;
+    }
+
+    .podcast-item-thumbnail {
+        height: 202px;
+        padding: 58px 42px 0;
+        margin-bottom: 28px;
+    }
+
+    .podcast-people-face {
+        width: 86px;
+        height: 59px;
+        margin: 0 auto 7px;
+    }
+
+
+
+    .podcast .row>div:not(:first-child) .podcast-item,
+    .podcast .row>div:not(:first-child):not(:nth-child(2)) .podcast-item {
+        margin-top: 40px;
+    }
+
+    .podcast-single {
+        gap: 12px;
+
+        img {
+            max-width: 200px;
+        }
+    }
+
+    .podcast-item.podcastsingle .podcast-item-thumbnail {
+        padding: 51px 13px 13px;
+    }
+
+    .podcast-detail {
+        padding: 38px 0;
+    }
+
+    .podcast-detail h1 {
+        font-size: 30px;
+    }
+
+    .podcast-detail p {
+        margin: 25px 0 59px;
+    }
+
+    .podcast-video iframe {
+        height: 260px;
+    }
+
+    .newsPage-catPage {
+        margin-bottom: 81px;
+    }
+
+    .pp-drill-tech-thumbnail {
+        margin: 28px 0;
+    }
+
+    .dt-comprsion-bar h5 {
+        font-size: 36px;
+    }
+
+    .dt-comprsion-bar p {
+        font-size: 14px;
+    }
+
+    .dt-comprsion-bar {
+        padding: 24px;
+    }
+
+    .dt-dsection .dSection__box h3 {
+        font-size: 30px;
+    }
+
+    .dt-dsection .dSection__box {
+        padding: 35px 57px;
+        top: -68px;
+        max-width: 245px;
+
+    }
+
+    .dt-dsection .dSection__img {
+        max-width: 291px;
+    }
+
+    .dt-comprsion-institute {
+        margin-top: 43px;
+        margin-left: 23px;
+
+    }
+
+    .dt-comprsion {
+        padding: 84px 0 120px;
+    }
+
+    .uce-text h3 {
+        font-size: 58px;
+    }
+
+    .uce {
+        overflow: hidden;
+    }
+
+    .uce .uce-2 {
+        right: -106px;
+        top: 65px;
+    }
+
+    .uce .uce-1 {
+        left: -68px;
+        top: 400px;
+    }
+
+    .uce .uce-3 {
+        bottom: 140px;
+        right: 0;
+        width: 72px;
+    }
+
+    .uce-text p {
+        font-size: 28px;
+        display: none;
+    }
+
+    .uce-wrap {
+        padding: 233px 0 350px;
+    }
+
+    .pp-drill-tech p {
+        font-size: 14px;
+    }
+
+    .pp-drill-tech {
+        h2 {
+            font-size: 18px;
+        }
+    }
+
+
+    .aboutBanner.pageBanner h1 {
+        font-size: 20px;
+    }
+
+    .aboutBanner {
+        margin-top: 0;
+    }
+
+    .aboutMarket .marketC__content {
+        padding: 33px 21px;
+        margin-top: -340px;
+    }
+
+    .about {
+        padding: 59px 0 114px;
+    }
+
+    .investor h1 {
+        font-weight: 400;
+        font-size: 30px;
+    }
+
+    .contact {
+        padding: 25px 0 95px;
+    }
+
+    .contact-title h1 {
+        font-size: 30px;
+    }
+
+    .dsection-img-hide {
+        padding-bottom: 0;
+
+        .dSection__box {
+            margin: 0 0 36px;
+        }
+    }
+
+    .marketC.marketC-disruptive {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .di-main {
+        .dis-impact {
+            background: #fff;
+        }
+    }
+
+    .marketC.marketC-disruptive .marketC__content {
+        margin-bottom: 44px;
+    }
+
+    .disNew-hope .disNew-hope-content {
+        padding-left: 24px;
+        padding-right: 24px;
+        padding-bottom: 30px;
+
+        h4 {
+            font-size: 15px;
+            color: #000;
+            font-weight: 700;
+        }
+    }
+
+    .disruptive-video-wrap {
+        margin-bottom: 37px;
+    }
+
+    .disNew-hope-wrap {
+        .dis-quote-wrap {
+            margin-bottom: 52px;
+
+            p {
+                font-size: 18px;
+                color: #000;
+                margin-bottom: 24px;
+            }
+        }
+    }
+
+    .pb-main {
+        margin: 0 0 100px;
+
+        .pb-electro {
+            padding: 79px 35px;
+
+            .pb-electro-content p {
+                margin-bottom: 60px;
+            }
+
+            .pb-electro-graph {
+
+                max-width: 90%;
+                margin: auto;
+            }
+        }
+
+        .pb-disadvange {
+            height: 168px;
+        }
+
+        .pb-disadvange-content {
+            margin-bottom: -120px;
+            padding: 21px 17px;
+
+            p {
+                font-size: 18px;
+            }
+
+        }
+    }
+
+    .pb-dis-points {
+        padding-top: 157px;
+
+        .pb-dis-point {
+            margin-bottom: 49px;
+        }
+
+        h5 {
+            font-size: 18px;
+            margin-bottom: 30px;
+        }
+
+        p {
+            font-size: 15px;
+        }
+    }
+
+    .dis-quote p {
+        font-size: 18px;
+    }
+
+    .dis-quote-wrap {
+        padding: 35px;
+    }
+
+    .dis-quote {
+        padding-bottom: 48px;
+    }
+
+    .ucsb-work.ucsanta .ucsb-work-wrap h4 {
+        text-align: start;
+        margin-bottom: 40px;
+        font-size: 32px;
+    }
+
+    .ucsb-work.ucsanta .ucsb-work-content {
+        margin: auto;
+        margin-bottom: 48px;
+    }
+
+    .dis-therma-content {
+        margin: auto;
+    }
+
+    .ucsb-work.ucsanta {
+        padding-bottom: 48px;
+
+        .ucsb-work-wrap {
+            padding-bottom: 24px;
+            border-bottom: 1px solid #CBCBCB;
+        }
+    }
+
+    .dis-therma-box {
+        max-width: 254px;
+        min-height: 118px;
+        margin: auto;
+        margin-top: 47px;
+
+        p {
+            font-size: 32px;
+        }
+
+        span {
+            font-size: 11px;
+        }
+    }
+
+    .dis-therma-content p {
+        color: #000;
+    }
+
+    .ucsb-work-content p {
+        color: #000;
+    }
+
+    .pb-main .pb-advantage {
+
+        height: 133px;
+    }
+
+    .pb-advantage-content {
+        padding: 24px 14px;
+        margin-bottom: -80px;
+
+        p {
+            font-size: 20px;
+        }
+    }
+
+    .nh-thermoloop-wrap {
+        padding: 37px 8px;
+        margin-bottom: 36px;
+    }
+
+    .thermoloop-belectro-content {
+        padding-left: 12px;
+        padding-right: 12px;
+        margin-bottom: 56px;
+
+        h4 {
+            font-size: 32px;
+            margin-bottom: 50px;
+        }
+    }
+
+    // here is custom css 
+    .navbar {
+        .navbar-brand {
+            margin-right: 40px;
+            max-width: 138px;
+        }
+    }
+
+    .banner {
+        .row_____ {
+            flex-direction: column;
+        }
+    }
+
+    .banner .carousel-indicators {
+        display: none;
+    }
+
+    .nn-abt {
+        padding: 80px 0px;
+
+    }
+
+    .nn-abt h2,
+    .nn-abt-img {
+        margin-bottom: 30px;
+    }
+
+    .theme-full {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .dSection__box {
+        margin: 0 30px;
+        padding: 50px 25px;
+    }
+
+    .dSection__box h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .dSection__box .border-topp {
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .dSection__content {
+        margin-top: 230px;
+    }
+
+    .dSection__img {
+        margin-bottom: -150px;
+        width: 97%;
+        max-width: 97%;
+    }
+
+    .dSection__content h3 {
+        font-size: 32px;
+    }
+
+    .wt-sect-rev-wrap {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .wt-sect-rev {
+        padding: 60px 0 0 0;
+    }
+
+    .wt-sect-rev__flex1__f2 {
+        flex-direction: column;
+        margin-top: -250px;
+    }
+
+    .wt-sect-img img {
+        height: 377px;
+    }
+
+    .wt-sect-rev__flex1__f2 .bg-white {
+        height: 90px;
+    }
+
+    .wt-sect-rev p {
+        margin: 50px 0 50px;
+        font-size: 15px;
+    }
+
+    .row_______ {
+        flex-direction: column-reverse;
+    }
+
+    .wdSection {
+        margin-top: 0px;
+    }
+
+    .wdSection__content {
+        margin-bottom: 120px;
+    }
+
+    .wdSection__box {
+        padding: 5px;
+        margin: -40px auto 40px auto !important;
+        width: 90%;
+        max-width: 90%;
+    }
+
+    .ourGoal-sect {
+        height: 354px;
+        margin-bottom: 600px;
+    }
+
+    section.wdSection.h-graphSection {
+        padding: 0 !important;
+        padding-top: 60px !important;
+    }
+
+    .wdSection__img img {
+        height: unset;
+    }
+
+    .mob-mode-dd {
+        display: unset;
+    }
+
+    .desk-mode-dd {
+        display: none;
+    }
+
+    .mob-mode-dd {
+        .sect__content {
+            text-align: center;
+
+            h2 {
+                text-align: center;
+                font-size: 32px;
+                padding: 0 7px;
+            }
+
+            a {
+                margin: 50px auto;
+
+            }
+        }
+
+        img {
+            margin-bottom: 70px;
+        }
+    }
+
+    // about us
+    .aboutMarket {
+        background: #ffffff;
+
+        .marketC__content {
+            background: #ffffff;
+        }
+
+    }
+
+    section.pageBanner.aboutBanner .container {
+        padding: 0;
+        margin: 0;
+    }
+
+    .aboutBgDarkSec {
+        padding: 100px 10px;
+        margin: 20px;
+    }
+
+    .ucsb-team-heading {
+        margin-left: -12px;
+        margin-right: -12px;
+    }
+
+    .ucsb-team-content {
+        flex-direction: column;
+        align-items: center;
+
+        .ucsb-team-text {
+            padding-left: 50px;
+            padding-right: 50px;
+        }
+    }
+
+    .ucsb-team-text a {
+        display: block;
+        margin: auto;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .ucsb-team {
+        padding-bottom: 72px;
+    }
+
+    .di-main {
+
+        margin: 0;
+
+        .dis-impact {
+            margin-top: -1px;
+            padding: 0;
+        }
+
+        h4 {
+            font-size: 32px;
+        }
+    }
+
+    .di-main .dis-impact-content {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .dis-impact-graph {
+
+        margin-top: 85px;
+        margin-bottom: 85px;
+    }
+
+    .dis-eliminates-box {
+        bottom: -130px;
+        padding: 34px 0;
+
+        p {
+            font-size: 32px;
+        }
+    }
+
+    .dis-eliminates {
+        height: 190px;
+    }
+
+    .dis-eliminates::after {
+        height: 190px;
+    }
+
+    .di-main .enRevolution__energies {
+        margin-top: 200px;
+    }
+
+    .di-main .energyList {
+        margin-bottom: 122px;
+    }
+
+    .dis-impact-image {
+        margin-left: -12px;
+        margin-right: -12px;
+    }
+
+    .nh-potential {
+        padding-top: 0;
+
+        padding-bottom: 44px;
+
+        h2 {
+
+            font-size: 25px;
+        }
+
+    }
+
+    .di-main {
+        margin-bottom: 78px;
+    }
+
+    .elctroBanner h1 {
+        font-size: 20px;
+    }
+
+    .alkalineElectorlyzersWt__content2 .electroSection__box .custom-table td:nth-child(1) {
+        font-size: 8px;
+    }
+
+    .alkalineElectorlyzersWt__content2 .electroSection__box {
+        padding-left: 32px;
+    }
+
+    .alkalineElectorlyzersWt__content2 .f_div .electroSection__box .custom-table tr td,
+    .alkalineElectorlyzersWt__content2 .s_div .electroSection__box .custom-table tr td {
+
+        line-height: normal;
+        font-size: 8px;
+    }
+
+    .alkalineElectorlyzersWt__content2 .f_div .electroSection__box .custom-table tr td {
+        padding: 6px;
+    }
+
+    .alkalineElectorlyzersWt__content2 .f_div .electroSection__img {
+        margin-left: -12px;
+    }
+
+    .alkalineElectorlyzersWt__content2 .s_div .electroSection__img {
+        margin-right: -12px;
+    }
+
+    .electroMarket .electroC__content {
+        padding: 28px 20px;
+    }
+
+    .electroBgdark {
+        margin: 58px 0 0;
+        padding: 79px 0;
+
+        .electroBgdark .first_row {
+            padding-top: 0;
+        }
+
+        .row {
+            gap: 56px;
+        }
+
+        h2 {
+            font-size: 32px;
+        }
+
+        .second_row {
+            max-width: 80%;
+            margin: auto;
+        }
+
+        .fourth_row h3 {
+            font-size: 20px;
+        }
+
+        hr {
+
+            margin: 54px 12px;
+            height: 0.1px;
+        }
+    }
+
+    .electroMText p {
+        font-size: 18px;
+    }
+
+    .electroNewhydrogen {
+        padding: 64px 0;
+    }
+
+    .electroNewhydrogen .firstDiv h2 {
+        margin-bottom: 30px;
+        font-size: 32px;
+    }
+
+    .electroCatalystBgdark {
+        margin: 0;
+    }
+
+    .electroCatalystBgdark .firstDiv h2 {
+        font-size: 32px;
+    }
+
+    .electroCatalystBgdark .firstDiv p {
+        margin-bottom: 43px;
+    }
+
+    .electroCatalystBgdark .row>div:last-of-type::before {
+        width: 95%;
+        height: 1px;
+    }
+
+    .electroCatalystBgdark .secondDiv {
+        padding-top: 36px;
+    }
+
+    .electroCatalystBgdark .firstDiv {
+        margin-bottom: 46px;
+    }
+
+    .breakthroughg {
+        padding-bottom: 33px;
+    }
+
+    .h-scalable {
+        height: 155px;
+    }
+
+    .h-scalable-box {
+        margin-bottom: -289px;
+        margin-left: 20px;
+        margin-right: 20px;
+        padding: 13px 30px;
+    }
+
+    .electroCatalystBgdark .circuit-image {
+        margin-top: 300px;
+    }
+
+    .alkalineElectorlyzersWt__content h4 {
+        font-size: 32px;
+        margin-bottom: 50px;
+    }
+
+    .alkalineElectorlyzersWt__content2 {
+        padding: 42px 0;
+    }
+
+    .alkalineElectorlyzersWt__content2 .f_div h2 {
+        font-weight: 500;
+        font-size: 20px;
+    }
+
+    .alkalineElectorlyzersWt__content2 .f_div .electroSection__box .custom-table tr th,
+    .alkalineElectorlyzersWt__content2 .s_div .electroSection__box .custom-table tr th {
+        font-size: 8px;
+    }
+
+    .alkalineElectorlyzersWt__content2 {
+        margin-top: 145px;
+    }
+
+    .ucsb-team2 .ucsb-team-heading {
+        padding: 0 12px;
+        margin-bottom: 57px;
+    }
+
+    .ucsb-team2 .ucsb-team-heading h4 {
+        margin-bottom: 63px;
+        font-size: 35px;
+    }
+
+    .ucsb-team-content .ucsb-team-text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ucsb-team-face {
+        width: 137px;
+    }
+
+    .ucsb-team-content {
+        gap: 32px;
+    }
+
+    .elctroBanner__banner {
+        margin-left: -12px;
+        margin-right: -12px;
+
+        img {
+            min-height: 266px;
+            object-fit: cover;
+        }
+    }
+
+    .alkalineElectorlyzersWt__content2 {
+        margin-top: 42px;
+    }
+
+    .application-banner .appBanner__banner {
+        padding-top: 0;
+        margin-left: -12px;
+        margin-right: -12px;
+    }
+
+    .appMarket .appC__content {
+        padding: 28px 20px;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+
+    .appBgwhite__wrap__inner {
+        margin-top: 50px;
+        padding: 20px 30px;
+
+        p {
+            font-size: 18px;
+        }
+    }
+
+    .appIn-Industry {
+        padding: 84px 0;
+
+        &::after,
+        &::before {
+            content: none;
+        }
+
+        h2 {
+            margin-bottom: 77px;
+            font-size: 25px;
+            max-width: 255px;
+        }
+
+        .divider {
+            display: none;
+        }
+    }
+
+    .aboutBanner {
+        .pageBanner__banner {
+            width: 100%;
+        }
+    }
+
+    .aboutMarket {
+        padding: 0;
+    }
+
+    .about h4 {
+        margin-bottom: 24px;
+    }
+
+    .about-item h6 {
+        margin: 20px 0 5px;
+    }
+
+    .about-item-basic {
+        width: 135px;
+    }
+
+    .about-item-face {
+        width: 135px;
+    }
+
+    .about-item {
+        gap: 43px;
+    }
+
+    .aboutBgDarkSec.about-wCT {
+        margin: 0;
+    }
+
+    .aboutBgDarkSec.about-wCT .about-wrap .about-head {
+        padding-bottom: 0;
+        margin-bottom: 63px;
+        border: none;
+        justify-content: center;
+    }
+
+    .aboutBgDarkSec.about-wCT {
+        padding: 40px 10px;
+    }
+
+    .about-boxes .about-box {
+        max-width: 127px;
+        margin: auto;
+        padding-bottom: 43px;
+        margin-bottom: 63px;
+        position: relative;
+
+        h6 {
+            text-align: start;
+        }
+
+        span {
+            text-align: start;
+        }
+
+        h5 {
+            text-align: start;
+        }
+    }
+
+    .about-boxes .divider {
+        display: none;
+    }
+
+    .investBanner h5 {
+        margin-bottom: 20px;
+    }
+
+    .investBanner h1 {
+        font-size: 20px;
+        margin: auto;
+        max-width: 300px;
+    }
+
+    .investBanner p {
+        font-size: 15px;
+        max-width: 315px;
+        margin: auto;
+        margin-top: 30px;
+
+        margin-bottom: 56px;
+    }
+
+    .investBanner .appBanner__banner .appBanner__newh h5 {
+        font-size: 14px;
+    }
+
+    .investBanner .appBanner__banner .appBanner__newh p {
+        font-size: 14px;
+    }
+
+    .investBanner .appBanner__banner .appBanner__newh .appBanner__newT {
+        padding: 8px 10px 4px;
+    }
+
+    .investBanner .appBanner__banner .appBanner__newh h6 {
+        font-size: 7px;
+
+        span {
+            font-size: 9px;
+        }
+    }
+
+    .application-banner .appBanner__banner {
+        img {
+            height: 262px;
+            object-fit: cover;
+        }
+    }
+
+    .investMarket .appin__content {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 35px 20px 0;
+        margin-bottom: 0;
+    }
+
+    .investor-wWCT {
+        padding: 15px 10px 10px;
+        margin-bottom: 14px;
+    }
+
+    .investMarket .image_div {
+        margin-bottom: 14px;
+    }
+
+    .investMarket .text_div p {
+        font-size: 15px;
+
+    }
+
+    .ourGoalInvest {
+        padding-top: 70px;
+        margin-bottom: 90px;
+
+        p {
+            font-size: 18px;
+        }
+    }
+
+    .investMarket .investBggray {
+        margin: 0;
+    }
+
+    .investMarket .investBggray {
+        padding: 52px 0;
+    }
+
+    .investMarket .investBggray .f_div h2 {
+        font-size: 25px;
+        padding-left: 0;
+
+    }
+
+    .investMarket .investBggray .f_div a {
+        padding-left: 0;
+    }
+
+    .investMarket .investBggray .f_div {
+        margin-bottom: 40px;
+    }
+
+    .investMarket .investBggray .f_div h3 {
+        font-size: 25px;
+        padding-left: 0;
+
+    }
+
+    .investMarket .investBggray .s_div h2 {
+        font-size: 25px;
+        margin-bottom: 30px;
+    }
+
+    .faqs .accordion-button {
+        gap: 44px;
+        font-size: 15px;
+    }
+
+    .investMarket .investBggray .f_div p {
+        padding-left: 0;
+    }
+
+    .investMarket .text_div {
+        margin: 0 22px;
+    }
+
+    .page-titleC_elctro {
+        top: 185px;
+    }
+
+    .podcast-newsletter form {
+        padding: 25px 12px;
+    }
+
+    .marketC.marketC-disruptive .marketC__content {
+        max-width: calc(100% - 30px);
+    }
+
+    .marketC.marketC-disruptive .marketC__content .marketC-img {
+        max-width: 90%;
+        top: -18vh;
+    }
+
+    .navbar .navbar-nav {
+        padding: 14px;
+    }
+
+    .dp-carousel {
+        padding-top: 80px;
+    }
+
+    .dSection.dSection-quote {
+        margin-top: 80px;
+    }
+
+    .dSection-quote .dSection__box {
+        margin-right: auto;
+        max-width: 296px;
+    }
+
+    .b-g-grad {
+        text-align: center;
+    }
+
+    .dSection-quote .dSection__img {
+        width: auto;
+        background: #18282c;
+        left: 0;
+        margin-inline: 20px;
+    }
+
+    .dSection-quote {
+        .dSection__content {
+            margin-top: 190px;
+        }
+    }
+
+    .wt-sect-rev {
+        .dis-impact-graph {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+    }
+
+    .h-graphSection {
+        .wdSection__img {
+            margin-bottom: 0;
+        }
+
+        .wdSection__content h3 {
+            font-size: 32px;
+            text-align: center;
+        }
+
+        .theme-btn {
+            width: 123px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .wdSection__content {
+            margin-bottom: 80px;
+
+            p {
+                text-align: center;
+            }
+        }
+    }
+
+    .mfp-iframe-holder .mfp-content {
+        max-width: 100%;
+    }
+
+    .footer-newsletter .theme-btn {
+        margin-top: 0;
+    }
+
+    .app-modal .modal-dialog {
+        max-width: 100%;
+    }
+
+    .app-modal-img::after {
+        content: "";
+        height: 70px;
+    }
+
+    .app-modal .modal-dialog .modal-body .app-modal-text {
+        padding: 30px 0;
+    }
+
+    .app-modal .modal-dialog .modal-body .app-modal-text h4 {
+        font-size: 32px;
+        padding-bottom: 12px;
+        margin-bottom: 18px;
+    }
+
+    .app-modal .modal-dialog .modal-body .app-modal-text p {
+        font-size: 16px;
+    }
+    .app-modal .modal-dialog .btn-close{
+        right: 20px;
+    }
+    .app-modal-text-scroll{
+        max-height: 300px;
+        overflow-y: auto;
+        padding: 0 30px;
+    }
+}
